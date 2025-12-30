@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Java Calculator</title>
+</head>
+<body>
+  <h1>Java Calculator</h1>
+  <p>This is a Java console-based calculator.</p>
+
+  <h2>Features</h2>
+  <ul>
+    <li>Addition</li>
+    <li>Subtraction</li>
+    <li>Multiplication</li>
+    <li>Division</li>
+  </ul>
+
+  <h2>Source Code</h2>
+  <a href="https://github.com/gurleenmann22-hub/Java-calculator">
+    View on GitHub
+  </a>
+</body>
+</html>
